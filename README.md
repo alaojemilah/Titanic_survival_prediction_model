@@ -4,13 +4,13 @@ Machine learning classification project predicting passenger survival using Pyth
 ## Problem Statement
 The Titanic dataset contains information about passengers aboard the Titanic. The goal of this project is to build a machine learning model that predicts whether a passenger survived or did not survive.
 
-This is a *classification problem* — the output belongs to one of two categories:
+This is a *classification problem* so the output belongs to one of the two categories:
 - *1* = Survived
 - *0* = Did not survive
 
 ## Dataset
-- *Source:* Titanic dataset (Kaggle)
-- *Features used:* Passenger details including age, sex, class, fare, and more
+- *Source:* Titanic dataset (my fellowship)
+- *Features used:* Passenger details including pclass, sex, age, sibsp, and fare
 
 ## What I Did
 - Imported and explored the data
