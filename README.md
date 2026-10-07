@@ -46,5 +46,5 @@ The *Decision Tree* achieved the highest accuracy of *80.34%*. After hyperparame
 - Scikit-learn
 
 ## Author
-Jemilah Alao | Data & Business Intelligence Analyst
-[LinkedIn](https://www.linkedin.com/in/jemilah-alao)
+Jemilah Alao | Data Analyst
+[LinkedIn](https://www.linkedin.com/in/jemilah-alao-8a684528a)
