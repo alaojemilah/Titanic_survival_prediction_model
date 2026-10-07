@@ -1,4 +1,4 @@
-## Titanic_survival_prediction_model
+## Titanic Survival Prediction Model
 
 ## Problem Statement
 The Titanic dataset contains information about passengers aboard the Titanic. The goal of this project is to build a machine learning model that predicts whether a passenger survived or did not survive.
