@@ -1,5 +1,3 @@
-# titanic_survival_prediction
-Machine learning classification project predicting passenger survival using Python and scikit-learn.
 
 ## Problem Statement
 The Titanic dataset contains information about passengers aboard the Titanic. The goal of this project is to build a machine learning model that predicts whether a passenger survived or did not survive.
